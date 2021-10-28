@@ -1,0 +1,101 @@
+Welcome back.
+In the second task, we will learn how to use variables
+and read user input.
+Let's declare our first variable the thing that's a simple
+first. You have to type the name of variable and then it's
+value. Let's print out on the console.
+And when I printed them using the door, say, when we'll get
+that don't worry about it.
+So let's go ahead and execute.
+Hello? I say it again.
+We have developed our variable.
+You may have noticed that I didn't put any spaces
+around the equal sign.
+If I do that and try to execute the script again, we're going
+to get a mirror.
+This is because back shooting that city is a command
+and we'll try to execute it.
+If I put space right after the call sign, I'm going to get a
+never again because bash shooting that for us, is a command
+and was right to execute that.
+So when we use the variable itself toe, assign it exported
+or else like here, we use the name without the door sign.
+But if you want to use the variables, value are just get
+the video from the variable.
+We have to put a dollar sign before the name again.
+Here we're just declaring the variable.
+Let's make that's correct.
+That's why we don't have door sign.
+And here we're using the variable and just getting its value.
+That's why we put a dollar sign.
+We can also surround the variable with double quotes
+like that.
+It should work the same way.
+And we can also use something called parameter expansion
+by surrounding the variable with curly braces and for fixing
+it with the dollar sign.
+So let's remove reports and surround variable name with curly
+braces as a good this just as this, we're going to get
+the same result.
+So Procter expansion against the value from the variable
+and the powerful toe thing here is that during the expansion,
+the video can be modified.
+For example, we can substitute strengths in the variable.
+If I type swash on some level that should be replaced
+with some other value on execute that.
+Now you see that the floor, the first occurrence of four, was
+substitute with war and something else that we can do
+with this modifier is getting a sub string of our variable.
+So if I typed Cohen for zero.
+Cohen, five, is gonna get me just the first five characters
+of the string.
+Another coating is that we can get the length of the
+of the shrink there we have eight and probably the most
+widely used modifier is setting a default value
+for the variable.
+Let's see how we can do that.
+With that Cohen minus and then some default value
+that will be printed.
+There's before Vettel.
+We were printed if city is no or unnamed to strength.
+So if I remove the decoration of city and takes into the gain,
+I'm going to get the default.
+Vero, If I have City, we're going to get the video
+off this variable.
+Robert does.
+It doesn't change the variable value.
+It just outputs default better here in this expansion.
+All right, and now let's go to reading user input.
+It's very simple to do that.
+We can use a read command and prompt the user to type
+something, for example, which, um, which is your favorite
+meal? I'm gonna put the next from space over here
+so that the other types after the texture space and we want
+to say that in the meal variable and was going to print it
+for now.
+I'm going to remove everything that we have here
+so that we have a clear console and let's go ahead and Mexico
+the script again.
+We get which is your favorite meal.
+I can tap in French Price as we get French fries.
+All right, let's have a simple exercise just to see what
+we learned in this task.
+Post video and read your hometown from the standard out input
+and store that in a variable, then print only the first
+three letters from that city.
+Welcome back.
+Let's have that together.
+So I'm going to replace that prompts over here
+with the question which is your hometown.
+And I'm going to say that in the hometown variable.
+Then to print only the first three letters, I'm gonna use
+parameter expansion, so I'm gonna have hometown 03 propane,
+only the first three letters.
+Let's try that quickly and think of types of some random
+string.
+We have only the first three letters.
+All right, that's all.
+For the second task, we learned how to declare variables
+and how to reach user input.
+Assuming the next task where we will start using conditional
+statements.

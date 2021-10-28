@@ -1,0 +1,99 @@
+Welcome to the third task where we learned
+about if statements and comparisons first, let's remove
+the thing from the previous test that we have.
+Yeah, and declare a new variable.
+This is gonna be our familiar venerable city, by the way.
+I don't have to surround the value here with double quotes,
+but I think it's much more clear that this is a string value.
+If I surrounded with double codes and now totally,
+if statement, it has kind of words intact.
+If you're familiar with other popular programming languages,
+but you get used to it, we have.
+If then square brackets be variable that we're trying
+to compare, and here we're using it better.
+That's why we perfect it with a dollar sign.
+Double equals in some, um, some of the dialect you can use
+just a single equal value, but this is a bit more familiar
+for me and, ah, bit more widely used in other programming
+languages.
+That's why I'm gonna stick toe double echo sign.
+Then we have new wine, the bank keywords,
+and after that we have the body of the statement here.
+I'm just gonna print out the city is forms and finally a.
+So you can see we don't have current braces.
+We have then and we're finishing.
+Quit the F I keywords, which is the opposite of if it's
+from that, we have the city's forms.
+We can add a nail statement as well right before we finish
+the lope.
+So we're gonna have else, like, the city is unknown.
+And maybe if I changed it into something else like, um,
+Sharon?
+Yes, we don't have the city's unknown.
+And we can also, of course, that else if conditions to do
+that. To do that, we have to use the keywords L f so right
+before geo statements, we can have l f City equals jury again.
+We have been, and we print out the city is during Uh huh.
+And we're comparing strings here.
+Let's see how we can compare numbers.
+First, I'm going to select this whole piece of code here,
+and to commend it, I have to type control or command,
+and then squash.
+This is gonna add comments to each of the lines.
+And as you can see, common starts with a D s or pound signed
+well declared two variables that how different values is
+gonna hold about 25 B is gonna hold 105 or 105.
+Then let's try to compare usedto.
+So if a is greater than be, then I wanna echo a is greater
+than be then I'm going at, um on else if statement So
+if a equals B and we will print a is equal to be finally,
+Finally, we're going to say B is greater then a If neither
+of the previous two conditions are true, I'm finishing off
+with a fi.
+All right, let's see what happens here we get a is greater
+than be quite weird, right, because the number 25 obviously
+isn't greater than 105 However, if we use the greater dancing
+the way that we do here, bash will compare these two values
+a strings and because to as a bigger value than one
+If we look at these two a strings 25 is gonna be bigger
+than 105 So to compare them numerically, we have to use Bash
+GT. Let's see if that works.
+Yep. Now we have B is greater than a because we this
+condition won't be true.
+And we're gonna end up here.
+We also have, um, similarly that lt which is more than that
+GT, which is greater than a rico too empty and also e que So
+if you wanna be absolutely absolutely sure that bash will
+compare the two values those numbers, we also have to replace
+the that that three equal science with Dash meet you right?
+It's never next challenge.
+You have to read the variable age from the standard output
+standard, simple story.
+And if the value off age is greater than 18, you have to
+print, you're allowed to vote.
+Otherwise you have to print.
+You're not allowed to vote.
+Go ahead and post the video and come back when you're ready.
+Welcome back.
+Let's hold challenge together.
+I'm going to declare Couple of variables are the first one is
+going to be voting age, which is gonna be the required page
+for voting.
+And this is gonna be 18.
+And then I'm going to read the variable age from these energy
+inputs that I'm gonna That's what I'm going to use the
+command read with the prompt what's I can type today?
+Obviously what's your age?
+And then I'm going to say that in the age horrible.
+Then if age is greater than voting age, we want to print.
+You are allowed to vote otherwise you are not allowed to vote.
+Alright, let's try to run that.
+What is your age 20?
+You're allowed to vote.
+What is your age 15?
+You're not allowed to vote.
+Alright, great work everyone in Just ask.
+We learn how to use a new statement and compare strength and
+numbers Assume task for where we will learn how to pass
+arguments to the executed script and also how to use four
+whoops.

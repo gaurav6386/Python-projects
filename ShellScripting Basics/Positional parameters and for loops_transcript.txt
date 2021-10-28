@@ -1,0 +1,82 @@
+Welcome back in the four task will discuss positional
+parameters and for loops.
+But first, let's go ahead and just remove all that.
+Of course, we have to keep the decoration top and let's
+get started positional parameters or the arguments that
+you give to your scripts when the scripts are involved.
+So, for example, if one executive hello Shh.
+And add additional arguments here such a foreign during and
+so on. This we're gonna be the arguments passed to the script.
+And these are also called positional parameters and tow.
+Obtain toe access.
+This position of parameters within the script, we can use the
+door sign, one door sign two and so on.
+Variables, for example.
+The first parameter is acceptable within this door.
+Sign one variable.
+I was gonna Prince.
+They were saying to us, Well, it's good that again.
+And let's consider we have Florence and curing.
+And to get a number of the past parameters, we can use the
+door signed pound variable, which was very peculiar.
+And also we can print over both using door sign at Richard
+sets a few more here.
+A few more cities you can see.
+Um, we have This is the first variable.
+The second one, the number ISS for account of the variables
+is for it's here.
+We have all of them preached by door sign at.
+And if you want to integrate through these parameters and do
+something with them, we can use a fore roof.
+I think this looks as follows.
+So for arc or argument or whatever you wanna call this, we
+can call it Param in the collection Off arguments do.
+And here is the body of the for work.
+And for now we're just gonna equities program.
+We have to finish off with the word done.
+Let's remove all these for now.
+If we execute that again, we have our cities printed.
+Sweet. Let's do something fun Bash in.
+But you can execute commands that modified the file system.
+For example.
+We have the envy command.
+It is short for move and now we're going to use it to rename
+files. For example, we can rename the document txt file.
+You can see it on the left here and we can rename that Teoh
+Ah, very important document dot Txt.
+Let's go ahead and run that as you see over here, the
+document was renamed.
+Your next task is to write a script that except argument when
+execute like we did here.
+And we want to pass in some of the files that we have from
+the left.
+Your job is to rename these files using the envy command.
+So post a video play around with the concept that we learned
+in this task and come back when?
+When you're ready.
+Welcome back.
+Let's solve the challenge together.
+I'm gonna remove all the time because that we have here so
+that we can right from scratch.
+And I'm going to create a four group who reiterates through
+the arguments that were passed there again, safety in the
+door sign at at Variable and for each parameter.
+I'm just gonna figure that we've done and here I'm gonna
+rename this argument Two very important argument.
+So this is gonna unnamed your original name to something,
+starting with the prefix.
+Very important.
+Alright, let's try to run it.
+Yeah, we can see the file that we have over here, so I'm, for
+instance, I'm gonna passing image PNG and photo J. P. G.
+Okay. And on the right, we see that we have these three names
+free call.
+If you want to restore the original names, you can use envy
+from the command wine from a script or, of course, from V s
+code. So just to exercise that green, we can remain very
+important documents to exceed to just document dot Txt on.
+We have the original name over here.
+Good job.
+In this task, we learned about position of parameters and
+four whoops, assuming the next task where we will explore
+functions.
